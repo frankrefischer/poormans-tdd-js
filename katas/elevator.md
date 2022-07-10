@@ -10,8 +10,8 @@ Write a function that behaves as follows:
 
 1) It takes a target floor number.
 2) It takes optionally a password.
-3) If the target floor number is less than 1 or more than 102, it returns "wrong floor".
-4) If the target floor is NOT secret, "ok" is returned.
+3) If the target floor number is less than 1 or more than 102, it returns `"wrong floor"`.
+4) If the target floor is NOT secret, `"ok"` is returned.
 5) If the target floor is locked, a password is required.
-6) If the password is required and it is 1337, "ok" is returned.
-7) Otherwise, "invalid password" returned.
+6) If the password is required and it is 1337, `"ok"` is returned.
+7) Otherwise, `"invalid password"` returned.
