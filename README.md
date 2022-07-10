@@ -1,5 +1,7 @@
 # Poor Man's TDD for Javascript
 
+<img src="https://user-images.githubusercontent.com/349945/178159397-b46f415a-a48c-4724-b0e2-ced1a9624750.png" width="400">
+
 A poor man's framework for [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) in Javascript.
 
 `git clone https://github.com/frankrefischer/poormans-tdd-js.git`
