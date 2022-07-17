@@ -14,6 +14,8 @@
 |expression|вираз  
 |value|значення  
 |evaluate an expression|оцініть вираз  
+|statement|інструкція
+|side effect|сторонній ефект  
 |function|функція  
 |to define a function|щоб визначити функцію  
 |function argument|аргумент функції  
@@ -21,7 +23,6 @@
 |to call a function|щоб викликати функцію  
 |parameter|параметр  
 |pass a parameter to a function|apпередати параметр функції  
-|side effect|сторонній ефект  
 |utility functions|функції корисності  
 |test function|тестова функція  
 |test case|тестовий випадок  
