@@ -9,12 +9,15 @@ glossary - глосарій
 string - рядок  
 array - масив
 number - номер
-function - функція  
-parameter - параметр  
-function argument - аргумент функції  
+expression - вираз  
 value - значення  
-return value - повертається значення  
+evaluate an expression- оцініть вираз  
+function - функція  
 to define a function - щоб визначити функцію  
+function argument - аргумент функції  
+return value - повертається значення  
 to call a function - щоб викликати функцію  
+parameter - параметр  
+pass a parameter to a function - apпередати параметр функції  
 side effect - сторонній ефект
 
