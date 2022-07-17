@@ -19,5 +19,14 @@ return value - повертається значення
 to call a function - щоб викликати функцію  
 parameter - параметр  
 pass a parameter to a function - apпередати параметр функції  
-side effect - сторонній ефект
-
+side effect - сторонній ефект  
+utility functions - функції корисності  
+test function - тестова функція  
+test case - тестовий випадок  
+expected result - Очікуваний результат  
+actual result -  фактичний результат
+unit test - модульний тест  
+a failed test - невдалий тест  
+a successful test - успішний тест  
+baby steps - дитячі кроки  
+REPL: read eval print loop - цикл читання-обчислення-друку  
