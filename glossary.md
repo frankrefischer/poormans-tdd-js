@@ -12,7 +12,10 @@ return value - повертається значення
 [] square brackets - квадратні дужки  
 {} curly brackets, braces - фігурні дужки  
 to define a function - щоб визначити функцію  
-to call a function - щоб викликати функцію 
+to call a function - щоб викликати функцію  
+string - рядок  
+array - масив
+number - номер
 
 
 
