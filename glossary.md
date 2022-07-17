@@ -8,6 +8,8 @@
 |() round brackets, parentheses|круглі дужки  
 |[] square brackets|квадратні дужки  
 |{} curly brackets, braces|фігурні дужки  
+|key|кнопку
+|press the key|натисніть клавішу, натисніть кнопку
 |string|рядок  
 |array|масив
 |number|номер
@@ -32,4 +34,5 @@
 |a failed test|невдалий тест  
 |a successful test|успішний тест  
 |baby steps|дитячі кроки  
-|REPL: read eval print loop|цикл читання-обчислення-друку  
+|REPL: read eval print loop|цикл читання-обчислення-друку
+|interpreter|інтерпретатор
